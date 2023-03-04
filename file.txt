@@ -1,0 +1,7 @@
+package main
+import " fmt"
+var a int =123
+func main(){
+fmt.Println(a)
+}
+
